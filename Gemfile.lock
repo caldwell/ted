@@ -4,10 +4,10 @@ GEM
     docopt (0.6.1)
     httparty (0.16.0)
       multi_xml (>= 0.5.2)
-    mini_portile2 (2.3.0)
+    mini_portile2 (2.4.0)
     multi_xml (0.6.0)
-    nokogiri (1.8.2)
-      mini_portile2 (~> 2.3.0)
+    nokogiri (1.10.4)
+      mini_portile2 (~> 2.4.0)
 
 PLATFORMS
   ruby
@@ -15,7 +15,7 @@ PLATFORMS
 DEPENDENCIES
   docopt (~> 0.6.1)
   httparty (~> 0.16.0)
-  nokogiri (~> 1.8)
+  nokogiri (~> 1.10.4)
 
 BUNDLED WITH
    1.15.1
